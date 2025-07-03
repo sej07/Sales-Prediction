@@ -46,4 +46,4 @@ R² Score: 0.87
 1. Building an end-to-end ML pipeline from scratch
 2. How to clean, encode, and structure real-world retail datasets
 3. Working with XGBoost and interpreting feature importance
-4. Evaluation using R² and RMSE in regression tasks
+4. Evaluation using R² in regression tasks
