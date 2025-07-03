@@ -41,3 +41,9 @@ To predict the sales of retail stores using structured data, enabling better inv
 
 #### Results
 R² Score: 0.87
+
+#### What I Learned
+1. Building an end-to-end ML pipeline from scratch
+2. How to clean, encode, and structure real-world retail datasets
+3. Working with XGBoost and interpreting feature importance
+4. Evaluation using R² and RMSE in regression tasks
