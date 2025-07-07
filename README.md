@@ -9,8 +9,11 @@ To predict the sales of retail stores using structured data, enabling better inv
 
 #### Dataset Details
 Source: [Kaggle – BigMart Sales Prediction Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data)
+
 File Used: Train.csv
+
 Rows: ~8,500
+
 Columns: 12 features + 1 target
 
 Key Columns: Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, Item_Type, Item_MRP, Outlet_Identifier, Outlet_Establishment_Year, Outlet_Size, Store size, Outlet_Location_Type, Outlet_Type, Item_Outlet_Sales
